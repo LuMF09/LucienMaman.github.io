@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pierre Colombo"
+title                    : "Lucien Maman"
 title_separator          : "-"
-name                     : &name "Colombo"
-description              : &description "Pierre Colombo"
-url                      : https://pierrecolombo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Maman"
+description              : &description "Lucien Maman"
+url                      : https://lucienmaman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EmileChapuis/emilechapuis.github.io"
+repository               : "LuMF09/lucienmaman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre Colombo"
-  avatar           : "image.jpeg"
-  bio              : "PHD student in Deep Learning/NLP"
+  name             : "Lucien Maman"
+  avatar           : "TO DO"
+  bio              : "TO DO"
   location         : "Paris"
-  employer         : "IBM/Telecom Paris"
+  employer         : "Telecom Paris"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=yPoMt8gAAAAJ&hl=fr"
-  email            : "colombo.pierre@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "XXX"
+  email            : "lucien.maman@gmail.com"
+  researchgate     :  "researchgate.net/profile/Lucien_Maman2"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/PierreColombo"
+  github           : "github.com/LuMF09"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            :
+  linkedin         : "linkedin.com/in/lucien-maman"
+  orcid            : "orcid.org/0000-0002-9017-7912"
   pinterest        :
   soundcloud       :
   stackoverflow    :
