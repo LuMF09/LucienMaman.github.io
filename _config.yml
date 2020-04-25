@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Maman"
 description              : &description "Lucien Maman"
 url                      : https://lucienmaman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "LuMF09/lucienmaman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master"#gh-pages","master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : LucienMaman09#&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Lucien Maman"
-  avatar           : "TO DO"
-  bio              : "TO DO"
+  avatar           : "/maman.png"
+  bio              : "HEllo, I'm Lucien!"
   location         : "Paris"
-  employer         : "Telecom Paris"
+  employer         : "Télécom Paris"
   pubmed           :
   googlescholar    : "XXX"
   email            : "lucien.maman@gmail.com"
