@@ -5,6 +5,9 @@ main:
     
   - title: "Publications"
     url: /publications/
+   
+  - title: "About my research"
+    url: /research/
     
   - title: "The little extra"
     url: /the-little-extra/
