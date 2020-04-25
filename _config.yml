@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "XXX"
   email            : "lucien.maman@gmail.com"
-  researchgate     :  "Lucien_Maman2" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lucien_Maman2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "lucien-maman"
-  orcid            : "0000-0002-9017-7912"
+  orcid            : "https://orcid.org/0000-0002-9017-7912"
   pinterest        :
   soundcloud       :
   stackoverflow    :
