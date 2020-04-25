@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : LucienMaman09#&twitter
+  username               : LucienMaman09 #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Lucien Maman"
-  avatar           : "/maman.png"
+  avatar           : "maman.png"
   bio              : "HEllo, I'm Lucien!"
   location         : "Paris"
   employer         : "Télécom Paris"
   pubmed           :
   googlescholar    : "XXX"
   email            : "lucien.maman@gmail.com"
-  researchgate     :  "researchgate.net/profile/Lucien_Maman2"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "Lucien_Maman2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/LuMF09"
+  github           : "LuMF09"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "linkedin.com/in/lucien-maman"
-  orcid            : "orcid.org/0000-0002-9017-7912"
+  linkedin         : "lucien-maman"
+  orcid            : "0000-0002-9017-7912"
   pinterest        :
   soundcloud       :
   stackoverflow    :
