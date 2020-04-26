@@ -11,9 +11,9 @@ title                    : "Lucien Maman"
 title_separator          : "-"
 name                     : &name "Maman"
 description              : &description "Lucien Maman"
-url                      : "https://lumf09.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lucienmaman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LuMF09/lucienmaman.github.io"
+repository               : "LucienMaman/LucienMaman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
