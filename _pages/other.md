@@ -1,23 +1,17 @@
 ---
 title: "<center> Other Research Activites </center>"
-permalink: /other/
+permalink: /my-research/
 author_profile: true
 ---
 
-Intern Mentoring 
+TO DO 
 ------
-* Past intern I have mentored at IBM:
-    * Leila Bassou (6 months internship): Email Classification using BERT. 
+* To DO
+    * TO DO 
     
 
-Organizer
+Grace
 ------
-[Workshop on Machine Learning and Artificial Intelligence 2019](https://workshopmlai.wp.imt.fr/), Co-Organizer.
+[GRACE website](https://grace.wp.imt.fr/)
 
 
-Patents
-------
-* Affect Driven Dialog Generation
-    * A. Modi, M. Kapadia, D.A. Fidaleo, J.R. Kennedy, W. Witon and P. Colombo
-    * US Patent Pending
-    * A framework for Affective Conversational System
