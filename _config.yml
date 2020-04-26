@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "XXX"
   email            : "lucien.maman@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Lucien_Maman2" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lucien_Maman2" target="_blank" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LuMF09"
+  github           : "LucienMaman"
   google_plus      :
   keybase          :
   instagram        :
