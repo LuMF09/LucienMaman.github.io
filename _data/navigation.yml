@@ -7,11 +7,8 @@ main:
     url: /publications/
    
   - title: "About my research"
-    url: /research/
-    
-  - title: "The little extra"
-    url: /the-little-extra/
-
+    url: /my-research/
+   
 
     #  - title: "Teaching"
 #    url: /teaching/
