@@ -9,29 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Below are presented the key moments and achievements of my academic and industry career. <br>
-Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a>
+<p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
+Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a></p>
 
 <span style="color: #DC3522">Edu</span>cation
 ======
-* 2019–2023: PhD student on the atuomated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France
-* 2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.
-* 2014-2017: Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France
-
+<p align="justify">
+  * 2019–2023: PhD student on the atuomated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France
+  * 2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.
+  * 2014–2017: Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France
+</p>
 <span style="color: #DC3522">Wor</span>k experience
 ======
-* 2017-2019: Video Engineer at Grabyo, London, U.K.
-* Apr. 2017 - Aug. 2017: Mobile application developer intern at BRiN (now Bizversity), Gold Coast, Australia
-* May 2016 - Aug. 2016: Energy engineer intern in the R&D department of the Exploration and Production section of TOTAL, Pau, France
-* Feb. 2015 - Apr. 2015: Research engineer at SPORT CONTROLE, Biarritz, France
+* 2017–2019: Video Engineer at Grabyo, London, U.K.
+* Apr. 2017–Aug. 2017: Mobile application developer intern at BRiN (now Bizversity), Gold Coast, Australia
+* May 2016–Aug. 2016: Energy engineer intern in the R&D department of the Exploration and Production section of TOTAL, Pau, France
+* Feb. 2015–Apr. 2015: Research engineer at SPORT CONTROLE, Biarritz, France
 
 <span style="color: #DC3522">Ski</span>lls
 ======
-* Programming: 
+* <b>Programming:</b> 
 I am confident using various programming languages such as Python and R  while doing my PhD, C and C++ while completing my MSc and Ruby, Ruby on Rails and JAVA while working at Grabyo.
-* Languages: 
+* <b>Languages:<b> 
 French (native), English (fluent) and Spanish (intermediate)
-* Familiar with the AGILE methodology:
+* <b>Familiar with the AGILE methodology:</b>
 I am particularly experienced with the role of Scrum Master.
 
 <span style="color: #DC3522">Pub</span>lications
