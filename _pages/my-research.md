@@ -29,7 +29,8 @@ author_profile: true
 
 <span style="color: #DC3522">Ach</span>ievements
 ====== 
-<p align="justify">Collect of the GAME-ON multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. It contains over 30 hours of video, audio and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset will be available as soon as the paper describing the experiment will be published.<br>
+<p align="justify"><b>Collect of the GAME-ON multimodal dataset</b><br>
+In october 2019, we collected a multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. It contains more than 30 hours of video, audio and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset will be available as soon as the paper describing the experiment will be published.<br>
 If you are interested to know more or to work with this new multimodal dataset dedicated to the study of cohesion and other constructs such as leadership, please feel free to reach out to me!
 </p>
 
