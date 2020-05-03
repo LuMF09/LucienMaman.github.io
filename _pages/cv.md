@@ -12,6 +12,16 @@ redirect_from:
 <p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
 Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a></p>
 
+<span style="color: #DC3522">Tes</span>t
+======
+<p align="justify">
+  <ul>
+    <li>Requirements for a new generation of software applications capable of providing feedback on group processes (e.g. in meetings, surgery)</li>
+    <li>Endowing artificial agents (e.g. virtual agents, robots) with skills to monitor and trigger cooperative behaviors both in everyday activities and in specialized tasks. This will open new market opportunities and increase competitiveness of companies in the area of social signal processing</li>
+  </ul> 
+</p>
+
+
 <span style="color: #DC3522">Edu</span>cation
 ======
 
