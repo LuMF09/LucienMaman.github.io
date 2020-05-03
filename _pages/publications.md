@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color: #DC3522">Jou</span>nals
+<span style="color: #DC3522">Jou</span>rnals
 ======
 Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Under Review</b><br>
 
