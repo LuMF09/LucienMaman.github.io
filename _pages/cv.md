@@ -59,7 +59,8 @@ I am particularly experienced with the role of Scrum Master.</li>
 <p align="justify">
   <ul>
     <li> Ex pro and semi-pro rugby player.<br>
-I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond). I am now playing scrum-half at the Paris Université Club on my spare time.</li>
+I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond).<br>
+I am now playing scrum-half at the Paris Université Club on my spare time.</li>
     <li>Core member of EPIKOA, the ESTIA's student union</li>
   </ul> 
 </p>
