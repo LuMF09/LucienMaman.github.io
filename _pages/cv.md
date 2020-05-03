@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my official CV for more information: [CV_Lucien_Maman_2020]
+Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a>
 
 Below are presented the key moments and achievements of my academic and industry career.
 
