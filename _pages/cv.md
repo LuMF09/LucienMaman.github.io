@@ -12,7 +12,7 @@ redirect_from:
 Below are presented the key moments and achievements of my academic and industry career.
 Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a>
 
-Education
+<span style="color: #1fc3f0">Education </span>
 ======
 * 2019–2023: PhD student on the atuomated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France
 * 2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.
