@@ -15,7 +15,7 @@ Please download my official CV for more information: <a href="https://lucienmama
 <span style="color: #DC3522">Edu</span>cation
 ======
 
-* 2019–2023: <p align="justify">PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</p>
+* <p align="justify">2019–2023: PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</p>
 * 2016–2017: <p align="justify">MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.</p>
 * 2014–2017: <p align="justify">Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France</p>
 
@@ -30,7 +30,7 @@ Please download my official CV for more information: <a href="https://lucienmama
 ======
 * <b>Programming:</b> 
 I am confident using various programming languages such as Python and R  while doing my PhD, C and C++ while completing my MSc and Ruby, Ruby on Rails and JAVA while working at Grabyo.
-* <b>Languages:<b> 
+* <b>Languages:</b> 
 French (native), English (fluent) and Spanish (intermediate)
 * <b>Familiar with the AGILE methodology:</b>
 I am particularly experienced with the role of Scrum Master.
@@ -38,14 +38,14 @@ I am particularly experienced with the role of Scrum Master.
 <span style="color: #DC3522">Pub</span>lications
 ======
 <strong>Journals</strong><br>
-Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Under Review</b><br>
+<p align="justify">Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Under Review</b></p>
 
 <strong>Conferences</strong><br>
-Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - 2020 - <b>Accepted</b>
+<p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - 2020 - <b>Accepted</b></p>
 
 <span style="color: #DC3522">Ext</span>racurricular Activity
 ======
-*  Ex pro and semi-pro rugby player.
+*  Ex pro and semi-pro rugby player.<br>
 I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond). I am now playing scrum-half at the Paris Université Club on my spare time.
 * Core member of EPIKOA, the ESTIA's student union
 
