@@ -35,6 +35,5 @@ If you are interested to know more or to work with this new multimodal dataset d
 
 <span style="color: #DC3522">Lat</span>est updates
 ======
-------
 <p align="justify">You can follow the latest updates of my research on my <a href="https://www.linkedin.com/in/lucien-maman/" target="_blank">Linkedin</a> and <a href="https://twitter.com/LucienMaman09" target="_blank">Twitter</a> accounts.<br>
 Make sure you also follow GRACE on its <a href="https://grace.wp.imt.fr/" target="_blank">website</a> and social medias (<a href="https://twitter.com/Grace__Project" target="_blank">Twitter</a> and <a href="https://www.instagram.com/grace__project" target="_blank">Instagram</a>).</p>
