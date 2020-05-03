@@ -15,8 +15,8 @@ I conduct my PhD under the supervision of <a href="https://scholar.google.com/ci
 Prior to my PhD, I worked at <a href="https://about.grabyo.com/" target="_blank">Grabyo</a> as a video engineer where I had the chance to work with amazing people and to enrich my technical and managing skills.<br>
 I also held a MSc in Computational & Software Techniques in Engineering from <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> (U.K.) and an engineering degree from <a href="https://www.estia.fr/" target="_blank">ESTIA</a> (France).<br><br>
 
-On a different note, I am also a rugby player. TO finish.
-</p>
+On a different note, I am also a rugby player. TO finish.</p>
+
 <span style="color: #DC3522">Con</span>tact
 ------
 <p align="justify">I am always excited to discuss new projects and ideas.<br>
