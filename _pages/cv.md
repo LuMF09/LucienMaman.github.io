@@ -12,16 +12,6 @@ redirect_from:
 <p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
 Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a></p>
 
-<span style="color: #DC3522">Tes</span>t
-======
-<p align="justify">
-  <ul>
-    <li>Requirements for a new generation of software applications capable of providing feedback on group processes (e.g. in meetings, surgery)</li>
-    <li>Endowing artificial agents (e.g. virtual agents, robots) with skills to monitor and trigger cooperative behaviors both in everyday activities and in specialized tasks. This will open new market opportunities and increase competitiveness of companies in the area of social signal processing</li>
-  </ul> 
-</p>
-
-
 <span style="color: #DC3522">Edu</span>cation
 ======
 <p align="justify">
@@ -34,19 +24,27 @@ Please download my official CV for more information: <a href="https://lucienmama
 
 <span style="color: #DC3522">Wor</span>k experience
 ======
-* 2017–2019: Video Engineer at Grabyo, London, U.K.
-* Apr. 2017–Aug. 2017: Mobile application developer intern at BRiN (now Bizversity), Gold Coast, Australia
-* May 2016–Aug. 2016: Energy engineer intern in the R&D department of the Exploration and Production section of TOTAL, Pau, France
-* Feb. 2015–Apr. 2015: Research engineer at SPORT CONTROLE, Biarritz, France
+<p align="justify">
+  <ul>
+    <li>2017–2019: Video Engineer at Grabyo, London, U.K.</li>
+    <li>Apr. 2017–Aug. 2017: Mobile application developer intern at BRiN (now Bizversity), Gold Coast, Australia</li>
+    <li>May 2016–Aug. 2016: Energy engineer intern in the R&D department of the Exploration and Production section of TOTAL, Pau, France</li>
+    <li>Feb. 2015–Apr. 2015: Research engineer at SPORT CONTROLE, Biarritz, France</li>
+  </ul> 
+</p>
 
 <span style="color: #DC3522">Ski</span>lls
 ======
-* <b>Programming:</b> 
-I am confident using various programming languages such as Python and R  while doing my PhD, C and C++ while completing my MSc and Ruby, Ruby on Rails and JAVA while working at Grabyo.
-* <b>Languages:</b> 
-French (native), English (fluent) and Spanish (intermediate)
-* <b>Familiar with the AGILE methodology:</b>
-I am particularly experienced with the role of Scrum Master.
+<p align="justify">
+  <ul>
+    <li><b>Programming:</b> 
+I am confident using various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails and JAVA (while working at Grabyo).</li>
+    <li><b>Languages:</b> 
+French (native), English (fluent) and Spanish (intermediate)</li>
+    <li><b>Familiar with the AGILE methodology:</b>
+I am particularly experienced with the role of Scrum Master.</li>
+  </ul> 
+</p>
 
 <span style="color: #DC3522">Pub</span>lications
 ======
@@ -58,7 +56,10 @@ I am particularly experienced with the role of Scrum Master.
 
 <span style="color: #DC3522">Ext</span>racurricular Activity
 ======
-*  Ex pro and semi-pro rugby player.<br>
-I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond). I am now playing scrum-half at the Paris Université Club on my spare time.
-* Core member of EPIKOA, the ESTIA's student union
-
+<p align="justify">
+  <ul>
+    <li> Ex pro and semi-pro rugby player.<br>
+I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond). I am now playing scrum-half at the Paris Université Club on my spare time.</li>
+    <li>Core member of EPIKOA, the ESTIA's student union</li>
+  </ul> 
+</p>
