@@ -14,13 +14,10 @@ Please download my official CV for more information: <a href="https://lucienmama
 
 <span style="color: #DC3522">Edu</span>cation
 ======
-<p align="justify">
-  <ul>
-    <li>2019–2023: PhD student on the atuomated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</li>
-    <li>2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.</li>
-    <li>2014–2017: Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France</li>
-  </ul>
-</p>
+
+* 2019–2023: <p align="justify">PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</p>
+* 2016–2017: <p align="justify">MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.</p>
+* 2014–2017: <p align="justify">Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France</p>
 
 <span style="color: #DC3522">Wor</span>k experience
 ======
