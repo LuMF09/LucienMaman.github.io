@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<center> My CV in a nutshell </center>"
+title: "<center>My CV</center>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
-Please download my official CV for more information: <a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a></p>
+Please download my official CV for more information: <form action="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf">
+    <input type="submit" value="Download my CV" />
+</form> 
+<a href="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">CV_Lucien_Maman_2020</a></p>
 
 <span style="color: #DC3522">Edu</span>cation
 ======
@@ -38,7 +41,7 @@ Please download my official CV for more information: <a href="https://lucienmama
 <p align="justify">
   <ul>
     <li><b>Programming:</b> 
-I am confident using various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails and JAVA (while working at Grabyo).</li>
+I am proficient in various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails and JAVA (while working at Grabyo).</li>
     <li><b>Languages:</b> 
 French (native), English (fluent) and Spanish (intermediate)</li>
     <li><b>Familiar with the AGILE methodology:</b>
