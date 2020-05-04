@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
-Please download my official CV for more information:</p>
+Please download my official CV below for more information.</p>
 <form action="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">
     <input type="submit" value="Download my CV" />
 </form> 
