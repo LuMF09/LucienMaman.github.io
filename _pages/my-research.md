@@ -14,9 +14,9 @@ author_profile: true
 
 <p align="justify">The project encompasses the following scientific, technological, and community-building objectives:</p>
 
-<p align="justify"><b>Scientific objectives:</b> to gain a deeper understanding of cohesion and, in particular, of the structural and temporal relationship between its major components, that is task and social components. Grounding on existing research in Social Sciences, GRACE will produce a relevant breakthrough by providing novel quantitative evidence to enhance our scientific knowledge on cohesion and to ground solid foundations for developing algorithms for its automated estimation.</p>
+<p align="justify"><b>Scientific objectives:</b> to gain a deeper understanding of cohesion and, in particular, of the structural and temporal relationship between its major components, that is task and social components. Grounding on existing research in Social Sciences, GRACE will produce a relevant breakthrough by providing novel quantitative evidence to enhance our scientific knowledge on cohesion and solid foundations for developing algorithms for its automated estimation.</p>
 
-<p align="justify"><b>Technological objectives:</b> to investigate suitable technological solutions for collecting multimodal data from small groups. GRACE will explore several sensing platform settings by looking at the recent improvements in wearable motion-capture technology and computer-vision based algorithms for multiparty detection and tracking; to develop software modules for automatically estimating cohesion and its components, accounting also for the temporal dimension. This will offer new opportunities to develop, in the future, killer apps to enhance interaction among humans as well as among human and machines (e.g. virtual agents and robots).</p>
+<p align="justify"><b>Technological objectives:</b> to investigate suitable technological solutions for collecting multimodal data from small groups. GRACE will explore several sensing platform settings by looking at the recent improvements in wearable motion-capture technology and computer-vision based algorithms for multiparty detection and tracking; to develop software modules for automatically estimating cohesion and its components, accounting also for the temporal dimension. This will offer new opportunities to develop, in the future, apps to enhance interactions among humans as well as among humans and machines (e.g. virtual agents and robots).</p>
 
 <p align="justify"><b>Community-building objectives:</b> to improve scientific exchanges among researchers with the final aim to contribute to build an interdisciplinary scientific community working on emergent states and sharing the same research questions and methodological workflows. This could significantly enhance the number and the quality of scientific collaborations and to provide bases for new scientific projects at national as well as European level.</p>
 
@@ -30,8 +30,8 @@ author_profile: true
 <span style="color: #DC3522">Ach</span>ievements
 ====== 
 <p align="justify"><b>Collect of the GAME-ON multimodal dataset</b><br>
-In october 2019, we collected a multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. It contains more than 30 hours of video, audio and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset will be available as soon as the paper describing the experiment will be published.<br>
-If you are interested to know more or to work with this new multimodal dataset dedicated to the study of cohesion and other constructs such as leadership, please feel free to reach out to me!
+In october 2019, we collected a multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. This dataset is composed of more than 30 hours of video, audio and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset will be available as soon as the paper describing the experiment will be published.<br>
+If you are interested to know more or to work with this new multimodal dataset dedicated to the study of cohesion and other constructs such as leadership, please feel free to reach me out!
 </p>
 
 <span style="color: #DC3522">Lat</span>est updates
