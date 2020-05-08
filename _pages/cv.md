@@ -41,7 +41,7 @@ Please download my official CV below for more information.</p>
 <p align="justify">
   <ul>
     <li><b>Programming:</b> 
-I am proficient in various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails and JAVA (while working at Grabyo).</li>
+I am proficient in various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails, and JAVA (while working at Grabyo).</li>
     <li><b>Languages:</b> 
 French (native), English (fluent) and Spanish (intermediate)</li>
     <li><b>Familiar with the AGILE methodology:</b>
@@ -61,9 +61,9 @@ I am particularly experienced with the role of Scrum Master.</li>
 ======
 <p align="justify">
   <ul>
-    <li> Ex pro and semi-pro rugby player.<br>
-I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and in the U.K (Richmond).<br>
-I am now playing scrum-half at the Paris Université Club on my spare time.</li>
+    <li> Ex-pro and semi-pro rugby player.<br>
+I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and the U.K (Richmond).<br>
+I am now playing scrum-half at the Paris Université Club in my spare time.</li>
     <li>Core member of EPIKOA, the ESTIA's student union</li>
   </ul> 
 </p>
