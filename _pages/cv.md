@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
-Please download my official CV below for more information.</p>
+Please download my generic CV below for more information.</p>
 <form action="https://lucienmaman.github.io/files/CV_Lucien_Maman_2020.pdf" target="_blank">
-    <input type="submit" value="Download my CV" />
+    <input type="submit" value="Download my generic CV" />
 </form> 
 
 <span style="color: #DC3522">Edu</span>cation
@@ -52,7 +52,7 @@ I am particularly experienced with the role of Scrum Master.</li>
 <span style="color: #DC3522">Pub</span>lications
 ======
 <strong>Journals</strong><br>
-<p align="justify">Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Under Review</b></p>
+<p align="justify">Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Accepted for Publication</b></p>
 
 <strong>Conferences</strong><br>
 <p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - 2020 - <b>Accepted</b></p>
