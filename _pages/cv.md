@@ -52,10 +52,13 @@ I am particularly experienced with the role of Scrum Master.</li>
 <span style="color: #DC3522">Pub</span>lications
 ======
 <strong>Journals</strong><br>
-<p align="justify">Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Accepted for Publication</b></p>
+<p align="justify">Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. & Varni, G. 2020. GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. IEEE Access - <b>Published</b></p>
 
 <strong>Conferences</strong><br>
-<p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - 2020 - <b>Accepted</b></p>
+
+<p align="justify">Maman, L. 2020. Multimodal Groups' Analysis for Automated Cohesion Estimation. In <i>Proceedings of the 2020 International Conference on Multimodal Interaction</i> (<i>ICMI '20</i>). - <b>Published</b></p>
+
+<p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - <b>Published</b></p>
 
 <span style="color: #DC3522">Ext</span>racurricular Activity
 ======
