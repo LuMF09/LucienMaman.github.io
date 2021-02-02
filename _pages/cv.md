@@ -19,7 +19,7 @@ Please download my generic CV below for more information.</p>
 ======
 <p align="justify">
   <ul>
-    <li>2019–2023: PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</li>
+    <li>2019–2022: PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</li>
     <li>2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.</li>
     <li>2014–2017: Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France</li>
   </ul> 
@@ -57,6 +57,8 @@ I am particularly experienced with the role of Scrum Master.</li>
 <strong>Conferences</strong><br>
 
 <p align="justify">Maman, L. 2020. Multimodal Groups' Analysis for Automated Cohesion Estimation. In <i>Proceedings of the 2020 International Conference on Multimodal Interaction</i> (<i>ICMI '20</i>). - <b>Published</b></p>
+
+<p align="justify">Fabian Walocha, Lucien Maman, Mohamed Chetouani, and Giovanna Varni. 2020. Modeling Dynamics of Task and Social Cohesion from the Group Perspective Using Nonverbal Motion Capture-based Features. In Companion Publication of the 2020 International Conference on Multimodal Interaction (ICMI '20 Companion) - <b>Published</b></p>
 
 <p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - <b>Published</b></p>
 
