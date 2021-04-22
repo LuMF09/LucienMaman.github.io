@@ -41,7 +41,7 @@ Please download my generic CV below for more information.</p>
 <p align="justify">
   <ul>
     <li><b>Programming:</b> 
-I am proficient in various programming languages such as Python and R (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails, and JAVA (while working at Grabyo).</li>
+I am proficient in various programming languages such as Python and R and the Tensorflow/Keras framework (during my PhD), C and C++ (while completing my MSc) and Ruby, Ruby on Rails, and JAVA (while working at Grabyo).</li>
     <li><b>Languages:</b> 
 French (native), English (fluent) and Spanish (intermediate)</li>
     <li><b>Familiar with the AGILE methodology:</b>
@@ -61,14 +61,3 @@ I am particularly experienced with the role of Scrum Master.</li>
 <p align="justify">Fabian Walocha, Lucien Maman, Mohamed Chetouani, and Giovanna Varni. 2020. Modeling Dynamics of Task and Social Cohesion from the Group Perspective Using Nonverbal Motion Capture-based Features. In Companion Publication of the 2020 International Conference on Multimodal Interaction (ICMI '20 Companion) - <b>Published</b></p>
 
 <p align="justify">Maman, L. & Varni, G. 2020. GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humain. Workshop on "Affects, Compagnons Artificiels et Interactions" - <b>Published</b></p>
-
-<span style="color: #DC3522">Ext</span>racurricular Activity
-======
-<p align="justify">
-  <ul>
-    <li> Ex-pro and semi-pro rugby player.<br>
-I played for multiple clubs in France (Montpellier and Biarritz), in Australia (Gold Coast) and the U.K (Richmond).<br>
-I am now playing scrum-half at the Paris Université Club in my spare time.</li>
-    <li>Core member of EPIKOA, the ESTIA's student union</li>
-  </ul> 
-</p>
