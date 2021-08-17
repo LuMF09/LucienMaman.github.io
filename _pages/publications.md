@@ -11,7 +11,7 @@ author_profile: true
 
 <span style="color: #DC3522">Con</span>ferences
 ======
-<p align="justify">Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences. Maman, L., Likforman-Sulem, L., Chetouani, M., and Varni, G. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 2021). 2021 - Accepted for publication</b></p>
+<p align="justify">Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences. Maman, L., Likforman-Sulem, L., Chetouani, M., and Varni, G. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 2021). 2021 - <b>Accepted for publication</b></p>
 
 <p align="justify">Using Valence Emotion to Predict Group Cohesion's Dynamics: Top-down and Bottom-up Approaches. Maman, L., Chetouani M., Likforman-Sulem, L. and Varni, G. International Conference on Affective Computing & Intelligent Interaction (ACII 2021). 2021 - <b>Accepted for publication</b></p>
 
