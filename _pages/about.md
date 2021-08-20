@@ -17,11 +17,12 @@ I also hold an MSc in Computational & Software Techniques in Engineering from <a
  
 <span style="color: #DC3522">On a </span>different note
 ------
-<p align="justify">I am also a rugby player. I played semi-professionally and professionally in France (Montpellier and Biarritz), in the U.K. (Richmond), in Australia (Gold Coast) and at international level, playing for Algeria. I am now playing at an amateur level in Paris.<br>
+<p align="justify">I am also a rugby player. I played semi-professionally and professionally in France (Montpellier and Biarritz), in the U.K. (Richmond), in Australia (Gold Coast) and at international level, playing for Algeria. I am now playing at an amateur level in Paris (P.U.C).<br>
 I am playing scrum-half (not scrum master), a key role where I have to lead the other players to adhere to the team strategy. I love being on the pitch for the adrenaline and fun it procures and off the pitch for the spirit and the friendships developed around rugby.<br>
 I am also a music enthusiast. I am mainly playing piano and exploring GarageBand to create my electronic songs.</p>
 
 <span style="color: #DC3522">Con</span>tact
 ------
 <p align="justify">I am always excited to discuss new projects and ideas.<br>
-Always open for collaborations, I'd love to hear from you!</p>
+I am open for collaboration, I'd love to hear from you! <br><br>
+Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</p>
