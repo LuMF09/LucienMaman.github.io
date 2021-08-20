@@ -7,7 +7,7 @@ author_profile: true
 ======
 <p align="justify">Short presentation (in French) of my background, current work at Télécom Paris and latest paper for <a href="https://datacraft.paris/" target="_blank">Datacraft Paris</a> (Paris, France, 2021).</p>
 
- <video style="max-width: 100%;height: auto" controls>
+ <video style="max-width: 100%;height: auto" controls controlsList="nodownload">
   <source src="/files/video_datacraft.mp4" type="video/mp4">
  </video> 
 <br>
