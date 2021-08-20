@@ -15,7 +15,7 @@ author_profile: true
 <iframe style="width:100%;height:auto;" src="/files/video_deeplearn.mp4" frameborder="0" allowfullscreen></iframe>
 <br>
 
-<span style="color: #DC3522">ACM</span> International Conference on Multimodal Interaction (ICMI) 2020
+<span style="color: #DC3522">Int</span>ernational Conference on Multimodal Interaction (ICMI) 2020
 ====== 
 <p align="justify">Presentation of my doctoral consortium paper (available <a href="https://lucienmaman.github.io/files/ICMI2020_dc_nocop.pdf" target="_blank">here</a>) during the <a href="https://icmi.acm.org/2020/" target="_blank">ICMI 2020</a> conference! (Virtual event, 2020).</p> 
 <iframe style="width:100%;height:auto;" src="/files/ICMI20-icmidc1004.mp4" frameborder="0" allowfullscreen></iframe>
