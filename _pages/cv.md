@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="justify">Below are presented the key moments and achievements of my academic and industry career. <br>
+<p align="justify">Below are presented the key moments and achievements of my academic and industry careers. <br>
 Please download my generic CV below for more information.</p>
 <form action="https://lucienmaman.github.io/files/CV_Lucien_Maman_2021_academic.pdf" target="_blank">
     <input type="submit" value="Download my generic CV" />
