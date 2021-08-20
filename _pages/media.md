@@ -6,7 +6,7 @@ author_profile: true
 <span style="color: #DC3522">Dat</span>acraft
 ======
 <p align="justify">Short presentation (in French) of my background, current work at Télécom Paris and latest paper for <a href="https://datacraft.paris/" target="_blank">Datacraft</a>, Paris, France, 2021</p>
-<iframe width="560" height="315" src="/files/video_datacraft.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="position: absolute;top: 0;left: 0;width:100%;height:100%;" src="/files/video_datacraft.mp4" frameborder="0" allowfullscreen></iframe>
 
 <span style="color: #DC3522">Dee</span>pLearn Summer School 2021
 ======
