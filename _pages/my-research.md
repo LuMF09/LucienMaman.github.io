@@ -5,12 +5,12 @@ author_profile: true
 ---
 <span style="color: #DC3522">Con</span>text
 ======
-<p align="justify">My research is part of the GRACE (GRoups' Analysis for automated Cohesion Estimation) fundamental research project. This project is a 3-years ANR (French National Agency) funded project in the frame of its Technological Research JCJC program (GRACE, project ANR-18-CE33-0003). It started in April 2019 and it will be completed by April 2022.</p>
+<p align="justify">My research is part of the GRACE (GRoups' Analysis for automated Cohesion Estimation) fundamental research project. This project is a 3-years ANR (French National Agency) funded project in the frame of its Technological Research JCJC program (GRACE, project ANR-18-CE33-0003). It started in April 2019 and it will be completed by June 2022.</p>
 
 
 <span style="color: #DC3522">Sco</span>pe of the project
 ======
-<p align="justify">The project aims at developing a computational model of cohesion among humans able to integrate the task and social dimensions of cohesion and also accounting for their relationship and their development over time. The model will be fed with multimodal nonverbal descriptors of cohesion computed at individual and group levels.</p>
+<p align="justify">The project aims at developing a computational model of cohesion among humans able to integrate the Task and Social dimensions of cohesion and to account for their relationship and development over time. The model will be fed with multimodal nonverbal descriptors of cohesion computed at individual and group levels.</p>
 
 <p align="justify">The project encompasses the following scientific, technological, and community-building objectives:</p>
 
@@ -22,16 +22,16 @@ author_profile: true
 
 <p align="justify">The impact of GRACE is expected in terms of:
   <ul>
-    <li>Requirements for a new generation of software applications capable of providing feedback on group processes (e.g. in meetings, surgery)</li>
-    <li>Endowing artificial agents (e.g. virtual agents, robots) with skills to monitor and trigger cooperative behaviors both in everyday activities and in specialized tasks. This will open new market opportunities and increase the competitiveness of companies in the area of social signal processing</li>
+    <li>Requirements for a new generation of software applications capable of providing feedback on group processes (e.g. in meeting, surgery)</li>
+    <li>Endowing artificial agents (e.g. virtual agents, robots) with skills to monitor and trigger cooperative behaviors both in everyday activities and in specialized tasks. This will open new market opportunities and increase the competitiveness of companies in the area of Social Signal Processing</li>
   </ul> 
 </p>
 
 <span style="color: #DC3522">Ach</span>ievements
 ====== 
-<p align="justify"><b>Collect of the GAME-ON multimodal dataset</b><br>
-In October 2019, we collected a multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. This dataset is composed of more than 30 hours of video, audio, and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset will be available as soon as the paper describing the experiment will be published.<br>
-If you are interested to know more or to work with this new multimodal dataset dedicated to the study of cohesion and other constructs such as leadership, please feel free to reach me out!
+<p align="justify"><b>Collection of the GAME-ON multimodal dataset</b><br>
+In October 2019, we collected a multimodal dataset at <a href="http://www.infomus.org/index_eng.php" target="_blank">Casa Paganini - InfoMus</a>, Genoa, Italy. This dataset is composed of more than 30 hours of video, audio, and motion capture data (i.e., rotations and translations of 17 points of the participants' body). More details about the dataset are available in the open access paper describing the data collection (<a href="https://ieeexplore.ieee.org/document/9127943" target="_blank">See paper</a>).<br>
+If you are interested to know more or to work with this new multimodal dataset dedicated to the study of cohesion and other constructs such as leadership, please feel free to reach out to me!
 </p>
 
 <span style="color: #DC3522">Lat</span>est updates
