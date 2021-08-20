@@ -24,5 +24,5 @@ author_profile: true
 ====== 
 <p align="justify">Presentation of my doctoral consortium paper (available <a href="https://lucienmaman.github.io/files/ICMI2020_dc_nocop.pdf" target="_blank">here</a>) during the <a href="https://icmi.acm.org/2020/" target="_blank">22nd International Conference on Multimodal Interaction</a> (ICMI, Virtual event, 2020)!</p> 
  <video style="max-width: 100%;height: auto" controls controlsList="nodownload" preload="metadata">
-  <source src="/files/ICMI20-icmidc1004.mp4#t=0.1" type="video/mp4">
+  <source src="/files/ICMI20-icmidc1004.mp4#t=42" type="video/mp4">
  </video>
