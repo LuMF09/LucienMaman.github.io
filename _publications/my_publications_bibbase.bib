@@ -200,27 +200,40 @@
 @inproceedings{maman-2021-icmi,
   title={Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences},
   author={Maman, Lucien and Likforman-Sulem, Laurence and Chetouani, Mohamed and Varni, Giovanna},
-  booktitle={Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI)},
+  booktitle={To Appear in Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI)},
   year={2021},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
   keywords = {Cohesion, Group Dynamics, Multimodal Interaction, Social Signal Processing, Transfer Learning},
 %   url = {https://doi.org/10.1145/3462244.3479940},
-  url={https://lucienmaman.github.io/files/ICMI2021_nocop.pdf}
+  url={https://lucienmaman.github.io/files/available.pdf}
   doi = {10.1145/3462244.3479940},
   location = {Montréal, QC, Canada},
   series = {ICMI '21},
   abstract = {Emergent states are behavioral, cognitive and affective processes appearing among the members of a group when they interact together. In the last decade, the development of computational approaches received a growing interest in building Human-Centered systems. Such a development is particularly difficult because some of these states have several dimensions interplaying somehow and somewhere over time. In this paper, we focus on cohesion, its dimensions and their interplay. Several definitions of cohesion exist, it can be simply defined as the tendency of a group to stick together to pursue goals and/or affective needs. This plethora of definitions resulted in many different cohesion dimensions. Social and Task dimensions are the most investigated both in Social Sciences and Computer Science since they both play an important role in a wide range of contexts and groups. To the best of our knowledge, however, no previous work on the prediction of cohesion dynamics focused on how these 2 dimensions interplay. We leverage Social Sciences to address this issue. In particular, we take advantage of the importance of Social cohesion for creating flexible and constructive relationships to reinforce Task cohesion. We describe a Deep Neural Network architecture (DNN) for predicting the dynamics of Task cohesion by applying transfer learning from a pre-trained model dedicated to the prediction of Social cohesion dynamics. Our architecture is evaluated against several baselines. Results show that it significantly improves the predictions of the Task cohesion dynamics, confirming the benefits of integrating Social Sciences insights into models architectures.},
  }
 
+@inproceedings{sabry-2021,
+author = {Sabry, Soumaya and Maman, Lucien and Varni, Giovanna},
+title = {An Exploratory Computational Study on the Effect of Emergent Leadership on Social and Task Cohesion},
+year = {2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url={https://lucienmaman.github.io/files/available.pdf},
+abstract = {Leadership is a complex and dynamic phenomenon that has received a lot of attention from psychologists over the last 50 years, primarily due to its relationships with team effectiveness and team performances. Depending on the group (e.g., size, relationships among members) and the context (e.g., solving a task under pressure), various styles of leadership could emerge. These styles can either be formally decided or manifest informally. Among the informal types of leadership, emergent leadership is one of the most studied. It is an emergent state that develops over time in a group and that interplays with other emergent states such as cohesion. Only a few computational studies focusing on predicting emergent leadership take advantage of the relationships with other phenomena to improve their models' performances. These approaches, however, only apply to their models aimed at predicting emergent leadership. There is, to the best of our knowledge, no approach that integrates emergent leadership into computational models of cohesion. In this study, we take a first step towards bridging this gap by introducing 2 families of approaches inspired by Social Sciences’ insights to integrate emergent leadership into computational models of cohesion. The first family consists of amplifying the differences between leaders' and followers' features while the second one focuses on adding leadership representation directly into the computational model's architecture. In particular, for each family, we describe 2 approaches that are applied to a Deep Neural Network model aimed at predicting the dynamics of cohesion, a multidimensional affective emergent state, across various tasks over time. This study explores whether and how applying our approaches improves the prediction of the dynamics of the Social and Task dimensions of cohesion. Therefore, the performance of a computational model of cohesion that does not integrate the interplay between cohesion and emergent leadership is compared with the same computational models that apply our approaches. Results show that approaches from both families significantly improved the prediction of the Task cohesion dynamics, confirming the benefits of integrating emergent leadership following Social Psychology’s insights to enforce computational models of cohesion at both feature and architecture levels.},
+booktitle = {Companion Publication of the 2021 International Conference on Multimodal Interaction},
+keywords = {Cohesion, Emergent Leadership, Multimodal Interaction, Social Signal Processing},
+location = {Montréal, QC, Canada},
+series = {ICMI '21 Companion}
+}
 
 @inproceedings{maman-2021-acii,
   title={Using Valence Emotion to Predict Group Cohesion’s Dynamics: Top-down and Bottom-up Approaches},
   author={Maman, Lucien and Chetouani, Mohamed and Likforman-Sulem, Laurence and Varni, Giovanna},
-  booktitle={Proceedings of the 9th International Conference on Affective Computing and Intelligent Interaction (ACII)},
+  booktitle={To Appear in Proceedings of the 9th International Conference on Affective Computing and Intelligent Interaction (ACII)},
   year={2021},
   organization={IEEE},
-  url={https://lucienmaman.github.io/files/ACII2021_nocop.pdf},
+  url={https://lucienmaman.github.io/files/available.pdf},
   abstract = {Cohesion is an affective group phenomenon. It has received a lot of attention from scholars both in Social Sciences and in Affective Computing that showed that cohesion and emotion influence each other, highlighting the need to jointly analyze them. This study presents 2 deep neural network architectures grounded on multitask learning to jointly predict cohesion and emotion. Inspired by 2 major Social Sciences approaches on group emotion (i.e., Top-down and Bottom-up), these architectures exploit cohesion and emotion interdependencies intending to improve the prediction of the dynamics (i.e. changes over time) of the Social and Task dimensions of cohesion. Emotion, here, is addressed in terms of its valence. Both architectures are evaluated against the performances of a similar model that only predicts the dynamics of both the Social and Task dimensions of cohesion, without integrating valence. Statistical analysis shows that only the deep model implementing the Bottom-up approach significantly improved the predictions of the Task cohesion's dynamics. This result confirms the theoretical and practical benefits of multitasking as it takes full advantage of the inherent relationships between group emotion and cohesion to improve Task cohesion's predictions.},
 }
 
