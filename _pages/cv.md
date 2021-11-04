@@ -19,7 +19,7 @@ Please download my generic CV below for more information.</p>
 ======
 <p align="justify">
   <ul>
-    <li>2019–2022: PhD student on the automated analysis of cohesion in small groups' interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</li>
+    <li>2019–2022: PhD student on the Automated Analysis of Cohesion in Small Groups' Interactions at the Department of Computer Science, LTCI, Télécom Paris, Institut Polytechnique de Paris, Paris, France</li>
     <li>2016–2017: MSc in Computational & Software Techniques in Engineering at Cranfield University, Cranfield, U.K.</li>
     <li>2014–2017: Engineering degree at ESTIA (École Supérieure des Technologies Industrielles Avancées), Biarritz, France</li>
   </ul> 
@@ -56,11 +56,11 @@ I am particularly experienced with the role of Scrum Master.</li>
 
 <strong>Conferences</strong><br>
 
-<p align="justify">Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences. Maman, L., Likforman-Sulem, L., Chetouani, M., and Varni, G. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 2021). 2021 - <b>Accepted for publication</b></p>
+<p align="justify">Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences. Maman, L., Likforman-Sulem, L., Chetouani, M., and Varni, G. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 2021). 2021 - <b>Published</b> - <b style="color: #DC3522">ICMI 2021 Best Paper Award</b></p>
 
-<p align="justify">An Exploratory Computational Study on the Effect of Emergent Leadership on Social and Task Cohesion. Sabry, S., Maman, L. and Varni, G. To Appear in Companion Publication of the 2021 International Conference on Multimodal Interaction (ICMI '21 Companion). 2021 - <b>Accepted for publication</b></p>
+<p align="justify">An Exploratory Computational Study on the Effect of Emergent Leadership on Social and Task Cohesion. Sabry, S., Maman, L. and Varni, G. To Appear in Companion Publication of the 2021 International Conference on Multimodal Interaction (ICMI '21 Companion). 2021 - <b>Published</b></p>
 
-<p align="justify">Using Valence Emotion to Predict Group Cohesion's Dynamics: Top-down and Bottom-up Approaches. Maman, L., Chetouani M., Likforman-Sulem, L. and Varni, G. International Conference on Affective Computing & Intelligent Interaction (ACII 2021). 2021 - <b>Accepted for publication</b></p>
+<p align="justify">Using Valence Emotion to Predict Group Cohesion's Dynamics: Top-down and Bottom-up Approaches. Maman, L., Chetouani M., Likforman-Sulem, L. and Varni, G. International Conference on Affective Computing & Intelligent Interaction (ACII 2021). 2021 - <b>Published</b></p>
 
 <p align="justify">Multimodal Groups’ Analysis for Automated Cohesion Estimation. Maman, L. International Conference on Multimodal Interaction (ICMI ‘20). 2020. - <b>Published</b></p>
 
