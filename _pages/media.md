@@ -10,9 +10,7 @@ author_profile: true
 <a href="https://www.telecom-paris.fr/interaction-multimodale-humain-machine-prix-meilleur-article" target="_blank">Here</a> is the official communication from Télécom Paris (in French)</p>
 <br>
 
-<span style="color: #DC3522">Int</span>ernational Conference on Multimodal Interaction, 2021 
-<br>
-[Best Paper Award]
+<span style="color: #DC3522">Int</span>ernational Conference on Multimodal Interaction, 2021
 ====== 
 <p align="justify">Presentation of the paper entitled "Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences" (available <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank">here</a>) that won the Best Paper Award during the <a href="https://icmi.acm.org/2021/" target="_blank">23rd International Conference on Multimodal Interaction</a> (ICMI, Montreal, Canada, 2021)!</p>
 
