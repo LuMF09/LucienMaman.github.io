@@ -6,8 +6,9 @@ author_profile: true
 
 <span style="color: #DC3522">Bes</span>t Paper Award, ICMI 2021 
 ====== 
-<p align="justify">On the occasion of the 23rd ACM International Conference on Multimodal Interaction (ICMI 2021) in Montreal (Canada), our paper entitled "Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences" received the Best Paper Award among the 93 accepted papers!
-<a href="https://www.telecom-paris.fr/interaction-multimodale-humain-machine-prix-meilleur-article" target="_blank">Here</a> is the official communication from Télécom Paris (in French)</p>
+<p align="justify">On the occasion of the 23rd ACM International Conference on Multimodal Interaction (ICMI 2021) in Montreal (Canada), our paper entitled "Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences" received the Best Paper Award among the 93 accepted papers! <br>
+<a href="https://www.telecom-paris.fr/interaction-multimodale-humain-machine-prix-meilleur-article" target="_blank">Here</a> is the official communication from Télécom Paris, in French.<br>
+ <a href="https://www.isir.upmc.fr/news/multimodal-human-human-and-human-computer-interaction-acm-icmi-2021-best-paper-award/?lang=en" target="_blank">Here</a> from the Institut des Systèmes Intelligents et de Robotique (ISIR), in English.</p>
 <br>
 
 <span style="color: #DC3522">Int</span>ernational Conference on Multimodal Interaction, 2021
