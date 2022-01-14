@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center>Lucien Maman</center>"
+title: "<center>Lucien Maman, Ph.D. student</center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,6 +23,10 @@ I am also a music enthusiast. I am mainly playing piano and exploring GarageBand
 
 <span style="color: #DC3522">Con</span>tact
 ------
-<p align="justify">I am always excited to discuss new projects and ideas.<br>
-I am open for collaboration, I'd love to hear from you! <br><br>
-Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</p>
+<p align="justify">I am always excited to discuss new projects and ideas and I am open for collaboration!<br>
+You can also follow the latest updates of my research on my <a href="https://www.linkedin.com/in/lucien-maman/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/LucienMaman09" target="_blank">Twitter</a> accounts.</p>
+
+
+<span style="color: #DC3522">New</span>s
+------
+<p align="justify">Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</p>
