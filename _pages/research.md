@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<center>Publications</center>"
+title: "<center>Publications & Research</center>"
 permalink: /research/
 author_profile: true
 ---
@@ -44,6 +44,7 @@ author_profile: true
 <span style="color: #DC3522">Tal</span>ks
 ======
 See [Talks](https://lucienmaman.github.io/talks/)
+
 <span style="color: #DC3522">Dow</span>nload papers and BibTexes
 ======
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Flucienmaman.github.io%2Fpublications%2Fmy_publications_bibbase.bib&jsonp=1"></script> 
