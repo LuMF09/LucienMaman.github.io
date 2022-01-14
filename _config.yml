@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lucien Maman"
   avatar           : "maman.png"
-  bio              : "PhD student<br>Feel free to reach out to me!"
+  bio              : "PhD student<br>Feel free to reach out to me!<br> <form action="https://lucienmaman.github.io/files/CV_Lucien_Maman_2022.pdf" target="_blank"><input type="submit" value="Download CV" /></form>"
   location         : "Paris"
   employer         : "Télécom Paris"
   pubmed           :
