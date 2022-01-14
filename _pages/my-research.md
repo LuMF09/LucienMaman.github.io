@@ -1,6 +1,6 @@
 ---
-title: "<center> About my Research </center>"
-permalink: /my-research/
+title: "<center> Current project </center>"
+permalink: /current-project/
 author_profile: true
 ---
 <span style="color: #DC3522">Con</span>text
@@ -42,5 +42,4 @@ The author version of the paper can also be downloaded <a href="https://lucienma
 
 <span style="color: #DC3522">Lat</span>est updates
 ======
-<p align="justify">You can follow the latest updates of my research on my <a href="https://www.linkedin.com/in/lucien-maman/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/LucienMaman09" target="_blank">Twitter</a> accounts.<br>
-Make sure you also follow GRACE on its <a href="https://grace.wp.imt.fr/" target="_blank">website</a> and social media (<a href="https://twitter.com/Grace__Project" target="_blank">Twitter</a> and <a href="https://www.instagram.com/grace__project" target="_blank">Instagram</a>).</p>
+<p align="justify">Make sure you follow GRACE on its <a href="https://grace.wp.imt.fr/" target="_blank">website</a> and social media (<a href="https://twitter.com/Grace__Project" target="_blank">Twitter</a> and <a href="https://www.instagram.com/grace__project" target="_blank">Instagram</a>).</p>
