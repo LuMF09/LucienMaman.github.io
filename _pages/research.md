@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "<center>Publications</center>"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
@@ -23,8 +23,27 @@ author_profile: true
 
 <p align="justify">GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humains. Maman, L. and Varni, G. In Workshop sur les Affects, Compagnons artificiels et Interactions (WACAI). 2020 - <b>Published</b></p>
 
+<span style="color: #DC3522">Tea</span>ching
+======
+<ul>
+  <li>Software engineering supervisor of 5 groups for PACT (Thematic collaborative learning project)</li>
+  <li>Hidden Markov Model</li>
+  <li>Bayesian inference</li>
+  <li>k-nearest neighbors algorithm</li>
+  <li>Neural Networks</li>
+  <li>Gestural and mobile interactions</li>
+</ul>
 
+<span style="color: #DC3522">Men</span>toring
+======
+<ul>
+  <li>Fabian Walocha (6 month internship, MSc student): Development of features and baseline models to predict variations of cohesion using motion capture data</li>
+  <li>Soumaya Sabry (6 month internship, MSc student): Integration of leadership information in computational models of cohesion</li>
+</ul>
 
+<span style="color: #DC3522">Tal</span>ks
+======
+See [Talks](https://lucienmaman.github.io/talks/)
 <span style="color: #DC3522">Dow</span>nload papers and BibTexes
 ======
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Flucienmaman.github.io%2Fpublications%2Fmy_publications_bibbase.bib&jsonp=1"></script> 
