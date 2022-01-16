@@ -29,4 +29,6 @@ You can also follow the latest updates of my research on my <a href="https://www
 
 <span style="color: #DC3522">New</span>s
 ------
-<p align="justify">Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</p>
+<p align="justify">Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</p><br>
+10.2019 One paper <a href="https://ieeexplore.ieee.org/document/9127943"><i class="fas fa-book"></i></a> accepted at **IEEE Access**<br>
+25.10.2019: We are in Genova for the Festival della Scienza 2019!<br>
