@@ -8,4 +8,4 @@ date: 2021-07-27
 location: "Las Palmas de Gran Canaria, Spain"
 ---
 [Presentation](https://lucienmaman.github.io/files/video_deeplearn.mp4){: .btn }
-<p align="justify">Short presentation of the work accomplished during the first 2 years of my Ph.D. at the [DeepLearn Summer School](https://irdta.eu/deeplearn2021s/)</p>
+<p align="justify">Short presentation of the work accomplished during the first 2 years of my Ph.D. at the <a href="https://irdta.eu/deeplearn2021s/" target="_blank">DeepLearn Summer School</a></p>
