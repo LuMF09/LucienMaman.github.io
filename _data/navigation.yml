@@ -1,26 +1,10 @@
 # main links
 main:
-  #- title: "CV"
-   # url: /cv/
-    
   - title: "Research"
     url: /research/
-   
-  - title: "Current Project"
-    url: /current-project/
     
   - title: "Talks"
     url: /talks/
    
-
-    #  - title: "Teaching"
-#    url: /teaching/
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-#
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Current Project"
+    url: /current-project/
