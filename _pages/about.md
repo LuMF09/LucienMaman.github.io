@@ -29,12 +29,12 @@ You can also follow the latest updates of my research on my <a href="https://www
 
 <span style="color: #DC3522">New</span>s
 ------
-<p align="justify"><b>Currently looking for my next big challenge in Affective Computing / Social Signal Processing research areas.</b><br>
-21.10.2021: We received the Best Paper Award at **ICMI** for our paper <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a>!<br>
-08.2021: One paper accepted <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at **ICMI** and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the **Insights on Group & Team Dynamics** workshop, as part of **ICMI**!<br>
+<p align="justify"><b>Currently looking for my next challenge in Affective Computing and Social Signal Processing.</b><br><br>
+21.10.2021: We received the Best Paper Award at <b>ICMI</b>! Paper: <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a><br>
+08.2021: One paper accepted <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at <b>ICMI</b> and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the <b>Insights on Group & Team Dynamics</b> workshop, as part of <b>ICMI</b>!<br>
 08.2021: Thank you <a href="https://datacraft.paris/" target="_blank">Datacraft Paris</a>, always a pleasure to exchange! <a href="https://lucienmaman.github.io/files/video_datacraft.mp4" target="_blank">[Video]</a><br>
 27.07.2021: Had fun presenting my work at the <a href="https://irdta.eu/deeplearn2021s/" target="_blank">DeepLearn Summer School 2021</a>! <a href="https://lucienmaman.github.io/files/video_deeplearn.mp4" target="_blank">[Video]</a><br>
-07.2021: One paper accepted <a href="https://ieeexplore.ieee.org/abstract/document/9597429" target="_blank"><i class="fas fa-book"></i></a> as a poster presentation at **ACII**<br>
-20.10.2020: One doctoral consortium paper accepted <a href="https://lucienmaman.github.io/files/ICMI2020_dc_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> at **ICMI** and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2020_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the **Insights on Group & Team Dynamics** workshop, as part of **ICMI**!<br>
-10.2019: One paper accepted <a href="https://ieeexplore.ieee.org/document/9127943" target="_blank"><i class="fas fa-book"></i></a> in the **IEEE Access** Journal (Open Access)!<br>
+07.2021: One paper accepted <a href="https://ieeexplore.ieee.org/abstract/document/9597429" target="_blank"><i class="fas fa-book"></i></a> as a poster presentation at <b>ACII</b><br>
+20.10.2020: One doctoral consortium paper accepted <a href="https://lucienmaman.github.io/files/ICMI2020_dc_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> at <b>ICMI</b> and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2020_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the <b>Insights on Group & Team Dynamics</b> workshop, as part of <b>ICMI</b>!<br>
+10.2019: One paper accepted <a href="https://ieeexplore.ieee.org/document/9127943" target="_blank"><i class="fas fa-book"></i></a> in the <b>IEEE Access</b> Journal (Open Access)!<br>
 25.10.2019: We are in Genova for the Festival della Scienza 2019!</p>
