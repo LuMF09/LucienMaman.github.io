@@ -30,12 +30,8 @@ You can also follow the latest updates of my research on my <a href="https://www
 <span style="color: #DC3522">New</span>s
 ------
 <p align="justify"><b>Currently looking for my next challenge in Affective Computing and Social Signal Processing.</b><br><br>
-<ul style="list-style-image: url('https://i.ibb.co/vHWV6H3/trophy.png')">
-  <li>21.10.2021: We received the Best Paper Award at <b>ICMI</b>! Paper: <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a></li>
-</ul>
-<ul style="list-style-type: square">
-  <li>08.2021: One paper accepted <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at <b>ICMI</b> and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the <b>Insights on Group & Team Dynamics</b> workshop, as part of <b>ICMI</b>!</li>
-</ul>
+<i class="fa fa-trophy"></i> 21.10.2021: We received the Best Paper Award at <b>ICMI</b>! Paper: <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a><br>
+<i class="fa fa-info-circle"></i> 08.2021: One paper accepted <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at <b>ICMI</b> and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the <b>Insights on Group & Team Dynamics</b> workshop, as part of <b>ICMI</b>!<br>
 08.2021: Thank you <a href="https://datacraft.paris/" target="_blank">Datacraft Paris</a>, always a pleasure to exchange! <a href="https://lucienmaman.github.io/files/video_datacraft.mp4" target="_blank">[Video]</a><br>
 27.07.2021: Had fun presenting my work at the <a href="https://irdta.eu/deeplearn2021s/" target="_blank">DeepLearn Summer School 2021</a>! <a href="https://lucienmaman.github.io/files/video_deeplearn.mp4" target="_blank">[Video]</a><br>
 07.2021: One paper accepted <a href="https://ieeexplore.ieee.org/abstract/document/9597429" target="_blank"><i class="fas fa-book"></i></a> as a poster presentation at <b>ACII</b><br>
