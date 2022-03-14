@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<center>Publications & Research</center>"
+title: "<center>Publications</center>"
 permalink: /research/
 author_profile: true
 ---
@@ -22,28 +22,6 @@ author_profile: true
 <p align="justify">Modeling Dynamics of Task and Social Cohesion from the Group Perspective Using Nonverbal Motion Capture-based Features. Walocha, F., Maman, L., Chetouani, M. and Varni, G. In Companion Publication of the 2020 International Conference on Multimodal Interaction (ICMI '20 Companion). 2020 - <b>Published</b></p>
 
 <p align="justify">GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humains. Maman, L. and Varni, G. In Workshop sur les Affects, Compagnons artificiels et Interactions (WACAI). 2020 - <b>Published</b></p>
-
-<span style="color: #DC3522">Tea</span>ching
-======
-<ul>
-  <li>Software engineering supervisor of 5 groups for PACT (Thematic collaborative learning project)</li>
-  <li>Hidden Markov Model</li>
-  <li>Bayesian inference</li>
-  <li>k-nearest neighbors algorithm</li>
-  <li>Neural Networks</li>
-  <li>Gestural and mobile interactions</li>
-</ul>
-
-<span style="color: #DC3522">Men</span>toring
-======
-<ul>
-  <li>Fabian Walocha (6 month internship, MSc student): Development of features and baseline models to predict variations of cohesion using motion capture data</li>
-  <li>Soumaya Sabry (6 month internship, MSc student): Integration of leadership information in computational models of cohesion</li>
-</ul>
-
-<span style="color: #DC3522">Tal</span>ks
-======
-See [Talks](https://lucienmaman.github.io/talks/)
 
 <span style="color: #DC3522">Dow</span>nload papers and BibTexes
 ======
