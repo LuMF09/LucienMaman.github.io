@@ -8,6 +8,8 @@ author_profile: true
 <span style="color: #DC3522">Rev</span>iews
 ======
 <ul>
+  <li>Reviewer for the  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369" target="_blank">IEEE Transactions on Affective Computing</a> journal (2022)</li>
+  <li>Reviewer for the  <a href="https://icmi.acm.org/2022/" target="_blank">24th ACM International Conference on Multimodal Interaction</a> (ICMI 2022)</li>
   <li>Member of the scientific committee and reviewer for the <a href="https://sites.google.com/view/cats2021workshop/home" target="_blank">International Workshop on Corpora And Tools for Social skills annotation</a> (CATS), as part of ICMI 2021</li>
   <li>Reviewer for the  <a href="https://icmi.acm.org/2021/" target="_blank">23rd ACM International Conference on Multimodal Interaction</a> (ICMI 2021)</li>
   <li>Reviewer for the <a href="https://icmi.acm.org/2020/" target="_blank">22nd ACM International Conference on Multimodal Interaction</a> (ICMI 2020)</li>
@@ -34,6 +36,7 @@ author_profile: true
 <ul>
   <li>Fabian Walocha (6 month internship, MSc student): Development of features and baseline models to predict variations of cohesion using motion capture data</li>
   <li>Soumaya Sabry (6 month internship, MSc student): Integration of leadership information in computational models of cohesion</li>
+  <li>Cédric Siboyabasore (4 month internship, MSc student): Integration of attention mechanisms in computational models of cohesion</li>
 </ul>
 
 <span style="color: #DC3522">Pre</span>sentations and talks
