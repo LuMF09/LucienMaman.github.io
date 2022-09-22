@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center>Lucien Maman, Ph.D. student</center>"
+title: "<center>Lucien Maman, Ph.D.</center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,10 @@ redirect_from:
 
 <span style="color: #DC3522">Abo</span>ut me
 ------
-<p align="justify">I am a third-year PhD student in the <a href="https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci/research-teams/signal-statistics-learning" target="_blank">Signal, Statistics and Learning</a> (S2A) team in the <a href="https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal" target="_blank">Image, Data and Signal</a> (IDS) Department of the <a href="https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci" target="_blank">Laboratory Treatment and Communication of Information</a> (LTCI) at <a href="https://www.telecom-paris.fr/en/home" target="_blank">Télécom Paris</a>, Paris.
-My PhD research work is under the supervision of <a href="https://scholar.google.com/citations?user=7AM4CZIAAAAJ&hl=en&oi=ao" target="_blank">Giovanna Varni</a> (Télécom Paris), <a href="https://scholar.google.com/citations?user=5buL2cAAAAAJ&hl=en" target="_blank">Laurence Linkforman-Sulem</a> (Télécom Paris) and <a href="https://scholar.google.fr/citations?user=AKdzMWUAAAAJ&hl=en" target="_blank">Mohamed Chetouani</a> (ISIR-UPMC, CNRS). The scope of my research encompasses the automatic detection of cohesion in small groups of humans. One of my drivers for innovation is the search for integration of a multi-disciplinary approach when it comes to the design and development of new experiments and applications.<br> 
-Prior to my PhD, I worked at <a href="https://about.grabyo.com/" target="_blank">Grabyo</a> as a video engineer where I had the chance to work with top engineers and to enrich my technical and managing skills.<br>
+<p align="justify">I am Founder in Residence at <a href="https://www.joinef.com/" target="_blank">Entrepreneur First</a> (EF) as part of the 9th cohort in Paris where I have the ambition to create a start-up with a positive impact using my skills in affective and social computing.<br>
+Prior to EF, I did my Ph.D. in the <a href="https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci/research-teams/signal-statistics-learning" target="_blank">Signal, Statistics and Learning</a> (S2A) team in the <a href="https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal" target="_blank">Image, Data and Signal</a> (IDS) Department of the <a href="https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci" target="_blank">Laboratory Treatment and Communication of Information</a> (LTCI) at <a href="https://www.telecom-paris.fr/en/home" target="_blank">Télécom Paris</a>, Paris.
+My PhD research work was under the supervision of <a href="https://scholar.google.com/citations?user=7AM4CZIAAAAJ&hl=en&oi=ao" target="_blank">Giovanna Varni</a> (Télécom Paris), <a href="https://scholar.google.com/citations?user=5buL2cAAAAAJ&hl=en" target="_blank">Laurence Linkforman-Sulem</a> (Télécom Paris) and <a href="https://scholar.google.fr/citations?user=AKdzMWUAAAAJ&hl=en" target="_blank">Mohamed Chetouani</a> (ISIR-UPMC, CNRS). The scope of my research encompasses the automatic detection of cohesion in small groups of humans. One of my drivers for innovation is the search for integration of a multi-disciplinary approach when it comes to the design and development of new experiments and applications.<br> 
+Before my Ph.D., I worked at <a href="https://about.grabyo.com/" target="_blank">Grabyo</a> as a video engineer where I had the chance to work with top engineers and to enrich my technical and managing skills.<br>
 I also hold an MSc in Computational & Software Techniques in Engineering from <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> (U.K.) and an engineering degree from <a href="https://www.estia.fr/" target="_blank">ESTIA</a> (France).</p>
  
 <span style="color: #DC3522">On a </span>different note
@@ -23,14 +24,16 @@ I am also a music enthusiast. I am mainly playing piano and exploring GarageBand
 
 <span style="color: #DC3522">Con</span>tact
 ------
-<p align="justify">I am always excited to discuss new projects and ideas and I am open for collaboration!<br>
-You can also follow the latest updates of my research on my <a href="https://www.linkedin.com/in/lucien-maman/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/LucienMaman09" target="_blank">Twitter</a> accounts.</p>
+<p align="justify">I am always excited to meet and discuss new projects and ideas!<br>
+You can also follow my latest updates on my <a href="https://www.linkedin.com/in/lucien-maman/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/LucienMaman09" target="_blank">Twitter</a> accounts.</p>
 
 
 <span style="color: #DC3522">New</span>s
 ------
-<p align="justify"><b>Currently looking for my next challenge in Affective Computing and Social Signal Processing.</b><br><br>
-  <i class="fa fa-trophy"></i> <u>21.10.2021</u>: We received the Best Paper Award at <b>ICMI</b>! Paper: <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a><br>
+<p align="justify">
+  
+<u>15.09.2022</u>: I successfully defended my Ph.D. entitled "Automated Analysis of Small Groups Interactions"! Slides: <a href="https://lucienmaman.github.io/files/thesis_slides.pdf" target="_blank"><i class="fab fa-slideshare"></i></a><br>
+<i class="fa fa-trophy"></i> <u>21.10.2021</u>: We received the Best Paper Award at <b>ICMI</b>! Paper: <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a><br>
 <u>08.2021</u>: One paper accepted <a href="https://lucienmaman.github.io/files/ICMI2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at <b>ICMI</b> and one paper accepted <a href="https://lucienmaman.github.io/files/IGTD2021_nocop.pdf" target="_blank"><i class="fas fa-book"></i></a> as an oral presentation at the <b>Insights on Group & Team Dynamics</b> workshop, as part of <b>ICMI</b>!<br>
 <u>08.2021</u>: Thank you <a href="https://datacraft.paris/" target="_blank">Datacraft Paris</a>, always a pleasure to exchange! <a href="https://lucienmaman.github.io/files/video_datacraft.mp4" target="_blank">[Video]</a><br>
 <u>27.07.2021</u>: Had fun presenting my work at the <a href="https://irdta.eu/deeplearn2021s/" target="_blank">DeepLearn Summer School 2021</a>! <a href="https://lucienmaman.github.io/files/video_deeplearn.mp4" target="_blank">[Video]</a><br>
