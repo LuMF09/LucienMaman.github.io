@@ -11,6 +11,8 @@ author_profile: true
 
 <span style="color: #DC3522">Con</span>ferences
 ======
+<p align="justify">Training Computational Models of Group Processes without Groundtruth: the Self- vs External Assessment’s Dilemma. Maman, L., Volpe, G., and Varni, G. In the Late-Breaking Results of the 2022 International Conference on Multimodal Interaction (ICMI 2022). 2022 - <b>Accepted</b></p>
+
 <p align="justify">Exploiting the Interplay between Social and Task Dimensions of Cohesion to Predict its Dynamics Leveraging Social Sciences. Maman, L., Likforman-Sulem, L., Chetouani, M., and Varni, G. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 2021). 2021 - <b>Published</b> - <b style="color: #DC3522">ICMI 2021 Best Paper Award</b></p>
 
 <p align="justify">An Exploratory Computational Study on the Effect of Emergent Leadership on Social and Task Cohesion. Sabry, S., Maman, L. and Varni, G. In Companion Publication of the 2021 International Conference on Multimodal Interaction (ICMI '21 Companion). 2021 - <b>Published</b></p>
