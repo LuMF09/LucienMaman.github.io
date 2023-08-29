@@ -30,6 +30,10 @@ All the latest updates are on my <a href="https://scholar.google.com/citations?u
 
 <p align="justify">GRACE : Un projet portant sur l'étude automatique de la cohésion dans les petits groupes d'humains. Maman, L. and Varni, G. In Workshop sur les Affects, Compagnons artificiels et Interactions (WACAI). 2020 - <b>Published</b></p>
 
+<span style="color: #DC3522">PhD</span> Thesis
+======
+<p align="justify">Automated analysis of cohesion in small groups interactions. Maman, L. 2022 - <b>Published</b></p>
+
 <span style="color: #DC3522">Dow</span>nload papers and BibTexes
 ======
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Flucienmaman.github.io%2Fpublications%2Fmy_publications_bibbase.bib&jsonp=1"></script> 
