@@ -9,7 +9,7 @@ All the latest updates are on my <a href="https://scholar.google.com/citations?u
 <span style="color: #DC3522">Jou</span>rnals
 ======
 
-<p align="justify">Modeling the Interplay Between Cohesion Dimensions: a Challenge for Group Affective Emergent States. Maman, L., Lehmann-Willenbrock, N., Chetouani, M., Likforman-Sulem, L., and Varni, G. IEEE Transactions on Affective Computing, 2023. - <b>Accepted</b></p>
+<p align="justify">Modeling the Interplay Between Cohesion Dimensions: a Challenge for Group Affective Emergent States. Maman, L., Lehmann-Willenbrock, N., Chetouani, M., Likforman-Sulem, L., and Varni, G. IEEE Transactions on Affective Computing, 2023. - <b>Published</b></p>
 
 
 <p align="justify">GAME-ON: A Multimodal Dataset for Cohesion and Group Analysis. Maman, L., Ceccaldi, E., Lehmann-Willenbrock, N., Likforman-Sulem, L., Chetouani, M., Volpe, G. and Varni, G. IEEE Access, 8: 124185-124203. 2020. - <b>Published</b></p>
