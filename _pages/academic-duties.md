@@ -8,6 +8,7 @@ author_profile: true
 <span style="color: #DC3522">Rev</span>iews
 ======
 <ul>
+    <li>Member of the program committee and reviewer for both the <a href="https://icmi.acm.org/2024/" target="_blank">26th ACM International Conference on Multimodal Interaction</a> (ICMI 2024) and the <a href="https://acii-conf.net/" target="_blank">12th International Conference on Affective Computing & Intelligent Interaction</a> (ACII 2024)</li>
     <li>Member of the program committee and reviewer for the <a href="https://icmi.acm.org/2023/" target="_blank">25th ACM International Conference on Multimodal Interaction</a> (ICMI 2023)</li>
   <li>Reviewer for the  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369" target="_blank">IEEE Transactions on Affective Computing</a> journal (2022)</li>
   <li>Reviewer for the  <a href="https://icmi.acm.org/2022/" target="_blank">24th ACM International Conference on Multimodal Interaction</a> (ICMI 2022)</li>
@@ -38,6 +39,7 @@ author_profile: true
   <li>Fabian Walocha (6 month internship, MSc student): Development of features and baseline models to predict variations of cohesion using motion capture data</li>
   <li>Soumaya Sabry (6 month internship, MSc student): Integration of leadership information in computational models of cohesion</li>
   <li>Cédric Siboyabasore (4 month internship, MSc student): Integration of attention mechanisms in computational models of cohesion</li>
+  <li>Mohamed dhia Werteteni (6 month internship, MSc student) as a full-stack software engineer with my company Flippit</li>
 </ul>
 
 <span style="color: #DC3522">Pre</span>sentations and talks
